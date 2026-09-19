@@ -1,0 +1,8 @@
+# Pasta de cache criada automaticamente pelo Python
+__pycache__/
+ 
+# Arquivos compilados que o Python gera sozinho
+*.pyc
+ 
+# Pasta do ambiente virtual (bibliotecas instaladas no computador)
+.venv/
