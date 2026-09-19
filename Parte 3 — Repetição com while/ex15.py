@@ -1,3 +1,4 @@
+#Proposta: 15. Peça números ao usuário até que ele digite 0. Ao final, informe quantos números positivos foram digitados.
 positivos = 0
 valor = float(input("Digite um número: "))
 while valor != 0:
