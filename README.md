@@ -29,7 +29,7 @@ Quando o programa pedir um valor, digite e pressione Enter.
 
 ### Parte 1 - Variáveis, entrada e saída
 
-1- ex01.py -Cria variáveis com nome e idade e exibe cada uma em uma linha. 
+1- ex01.py -Cria variáveis com nome e idade e exibe cada uma em uma linha.  
 2- ex02.py -Lê dois números e exibe a soma.  
 3- ex03.py -Lê o raio e calcula a área do círculo (pi = 3.14159).  
 4- ex04.py -Converte uma temperatura de Celsius para Fahrenheit.  
