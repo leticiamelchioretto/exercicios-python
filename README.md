@@ -15,7 +15,7 @@ Este repositório contém dentro de si 25 exercicios junto com suas resoluções
 ## Tecnologia utilizada
 
 -Linguagem de programação: Python
--Versão: [Python 3.11.9]
+-Versão: Python 3.11.9
 
 ## Como executar
 
